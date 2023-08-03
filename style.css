@@ -2,10 +2,13 @@
 * {
     box-sizing: border-box;
 }
+
+
 body {
     margin: 0;
     font-family: "Poppins", sans-serif;
-    background-color: linear-gradiet(300deg, #757b87, #909d9d);
+    background-color: linear-gradiet(300deg, #09090a, #0e0e0e);
+    
     display: flex;
     justify-content: center;
     align-items: center;
